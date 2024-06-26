@@ -12,6 +12,8 @@ main/
 ├── .gitignore
 ├── requirements.txt
 └── 01_Intro-to-ML/
-    ├── xxx
+    └── data/
+        ├── diabetes.csv
+    ├── 01_reto-procesando-un-dataset.ipynb
 └── 02_xxx
 ```
