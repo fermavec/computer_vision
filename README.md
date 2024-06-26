@@ -6,6 +6,7 @@ pip install -r requirements.txt
 ```
 
 ## Structure
+```
 main/
 ├── README.md
 ├── .gitignore
@@ -13,3 +14,4 @@ main/
 └── 01_Intro-to-ML/
     ├── xxx
 └── 02_xxx
+```
