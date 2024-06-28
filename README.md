@@ -11,9 +11,10 @@ main/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
-└── 01_Intro-to-ML/
+└── 01_ML-CV
+    ├── 01_ML-CV.md
+└── Intro-to-ML/
     └── data/
         ├── diabetes.csv
     ├── 01_reto-procesando-un-dataset.ipynb
-└── 02_xxx
 ```
